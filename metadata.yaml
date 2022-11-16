@@ -1,0 +1,28 @@
+_repo: Sard-Harker-A-novel_69340
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Masefield, John
+    birthdate: 1878
+    deathdate: 1967
+    gutenberg_agent_id: '582'
+    url: http://www.gutenberg.org/2009/agents/582
+    wikipedia: https://en.wikipedia.org/wiki/John_Masefield
+description: ''
+gutenberg_issued: '2022-11-13'
+identifiers:
+  gutenberg: '69340'
+language: en
+pgterms:marc905: 20221110185909masefield
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+production_note: Al Haines, Cindy Beyer & the online Distributed Proofreaders Canada
+  team at https://www.pgdpcanada.net
+publication_note: 'United Kingdom: William Heinemann Ltd.,1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sard Harker: A novel'
+url: http://www.gutenberg.org/ebooks/69340
